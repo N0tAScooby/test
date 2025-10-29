@@ -57,7 +57,6 @@ const config: Config = {
         indexBlog: false,
         indexPages: true,
         language: 'de',
-        searchBarShortcut: 's',
       },
     ],
   ],
