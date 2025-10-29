@@ -49,6 +49,19 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve('@cmfcmf/docusaurus-search-local'),
+      {
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: true,
+        language: 'de',
+        searchBarShortcut: 's',
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
 
