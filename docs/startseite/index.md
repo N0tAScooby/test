@@ -1,7 +1,6 @@
 ---
-title: "Startseite"
-slug: /startseite
 id: intro
+title: Startseite
 ---
 
 # Startseite
