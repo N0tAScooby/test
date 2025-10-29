@@ -72,7 +72,7 @@ const config: Config = {
       title: 'ALARMiator',
       logo: {
         alt: 'ALARMiator Logo',
-        src: 'img/logo.svg',
+        src: 'img/alarmiator-logo.webp',
       },
       items: [
 
