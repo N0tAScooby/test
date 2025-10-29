@@ -35,7 +35,7 @@ Der Inhalt dieser Textdatei enthält dabei folgenden Code:
 
 
 
-```
+```bash
 @echo off
 curl -G "https://{{example.com}}/api/operations/sendAlarm" --data-urlencode
 "token={{deintoken}}" --data-urlencode "subject=%~1" --data-urlencode "ils=Leitstelle"
@@ -49,7 +49,7 @@ Hier wird https benutzt und mit /api/ wird implizit die Nutzung unseres Standard
 
 
 
-Die in {{ }} geschriebene Inputs sind dabei für deinen Server entsprechend abzuändern.  
+Die in \{\{ \}\} geschriebene Inputs sind dabei für deinen Server entsprechend abzuändern.
 Die IP enthält die übliche Server-Adresse und das Token muss vorab im ALARMiator Adminmenü unter „API-Token“ angelegt werden.
 
 

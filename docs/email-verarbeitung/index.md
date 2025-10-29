@@ -43,4 +43,4 @@ Da verschiedene Email Programme nur Plain-Text anzeigen können gibt es hier imm
 
 
 
-Um zum Beispiel den Vornamen einzusetzen benutzen wir die Notation mit doppelter Klammer {{}}. Diese wird dann beim Versand mit dem Vornamen des Empfängers ersetzt. Wenn du solch eine Info rauslöschen möchtest kannst du Sie einfach entfernen.
+Um zum Beispiel den Vornamen einzusetzen benutzen wir die Notation mit doppelter Klammer \{\{\}\}. Diese wird dann beim Versand mit dem Vornamen des Empfängers ersetzt. Wenn du solch eine Info rauslöschen möchtest kannst du Sie einfach entfernen.
