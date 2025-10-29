@@ -63,8 +63,7 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        // Your sidebar is "tutorialSidebar" -> but you said hierarchy is broken
-        // For now, we link directly to "intro" instead
+
         {
           type: 'doc',
           docId: 'intro',
