@@ -11,19 +11,13 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
+        <p>ALARMiator wird als OpenSource Projekt von ehrenamtlich Tätigen aus Rettungsorganisationen entwickelt. Dem Ziel, eine vollumfängliche Lösung für Feuerwehren und andere BOS-Einheiten anzubieten sind wir schon sehr nah. Egal ob Mitgliederverwaltung, Inventarmanagement, Zusatzalarmierung oder Verwaltung des Ausbildungsstandes, ALARMiator bietet schon heute Module für diese Bereiche einer jeden Organisation. Es entstehen keine Kosten für die Nutzung. Das Projekt finanziert sich durch den Einsatz der Freizeit der beteiligten Entwickler.</p>
       </div>
     </header>
   );

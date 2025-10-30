@@ -2,69 +2,87 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import FeatureGrid from '@site/src/components/FeatureGrid';
+
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  icon: string; // using images instead of SVG imports
   description: ReactNode;
 };
 
-const FeatureList: FeatureItem[] = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
-];
-
-function Feature({title, Svg, description}: FeatureItem) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
-}
 
 export default function HomepageFeatures(): ReactNode {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
+
+        <FeatureGrid
+          features={[
+            {
+              icon: <i className="fa fa-laptop txt-pink" />,
+              title: "Zusatzalarmierung",
+              description: "Mit unserer iPhone und Android App alarmierst Du Deine Kräfte im Einsatzfall schnell und intuitiv."
+            },
+            {
+              icon: <i className="fa fa-building txt-pink" />,
+              title: "Eine oder viele Organisationen",
+              description: "ALARMiator kann eine einzelne Organisation verwalten oder beliebig viele."
+            },
+            {
+              icon: <i className="fa fa-cogs txt-pink" />,
+              title: "Organisationsverwaltung",
+              description: "Mitglieder, Inventar, Termine – alles zentral verwaltet."
+            },
+            {
+              icon: <i className="fa fa-bullhorn txt-pink" />,
+              title: "Ausgehende Alarmierung",
+              description: "Alarmierung über Apps, DIVERA, SMS, Sprachanruf oder E-Mail."
+            },
+            {
+              icon: <i className="fa fa-puzzle-piece txt-pink" />,
+              title: "Maximal flexibel",
+              description: "Plugins ermöglichen Anpassungen und Erweiterungen."
+            },
+            {
+              icon: <i className="fa fa-bullhorn txt-pink" />,
+              title: "Eingehende Alarmierung",
+              description: "Alarmzugang über KatSys, ILS Fax oder REST-API."
+            },
+     
+            {
+              icon: <i className="fa fa-plug txt-pink" />,
+              title: "Automatisierung",
+              description: "Steuert MQTT-Systeme und Gebäudetechnik im Alarmfall."
+            },
+            {
+              icon: <i className="fa fa-forumbee txt-pink" />,
+              title: "Community",
+              description: "Treffe Anwender und Entwickler in unserer Community."
+            },
+            {
+              icon: <i className="fa fa-map-marker txt-pink" />,
+              title: "Hydrantenverwaltung",
+              description: "Hydrantenübersicht in App und Einsatzinformationen."
+            },
+            {
+              icon: <i className="fa fa-fax txt-pink" />,
+              title: "Alarmdepesche 2.0",
+              description: "Automatisch generierte und druckbare Alarmdepesche."
+            },
+            {
+              icon: <i className="fa fa-tv txt-pink" />,
+              title: "Wallboards",
+              description: "Unbegrenzte Alarmmonitore für jeden Standort."
+            },
+            {
+              icon: <i className="fa fa-calendar txt-pink" />,
+              title: "Terminverwaltung",
+              description: "Termine und Erinnerungen direkt in der ALARMiator App."
+            },
+          ]}
+        />
+
       </div>
     </section>
   );

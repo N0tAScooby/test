@@ -16,6 +16,7 @@
   --ifm-font-family-heading: 'Montserrat', sans-serif;
   --ifm-code-font-size:      95%;
   --docusaurus-highlighted-code-line-bg: rgba(0,0,0,0.05);
+
 }
 
 [data-theme='dark'] {
@@ -26,7 +27,7 @@
   --ifm-color-primary-lighter:#E02F3C;
   --ifm-color-primary-lightest:#00a4c7;
 
-  --ifm-color-secondary:     #00a4c7;
+  --ifm-color-secondary:     #e04c4c;
   --ifm-color-secondary-dark: #82121A;
 
   --ifm-color-brand-alert:   #e04c4c;
@@ -41,7 +42,7 @@
 
 .footer {
   background-color: var(--ifm-color-primary-darkest);
-  color: #ffffff;
+  color: #0000;
 }
 
 /* Button primary variant */
@@ -59,3 +60,60 @@
 a:hover, .navbar__link:hover {
   color: var(--ifm-color-secondary);
 }
+
+
+
+/* search bar styling */
+
+.aa-DetachedSearchButton {
+    background-color: var(--ifm-hero-background-color) !important;
+    color: var(--ifm-color-primary) !important;
+    width: 300px !important;
+    border-radius: 1em !important;
+}
+
+.aa-SubmitIcon  {
+  color: var(--ifm-color-primary) !important;
+  background-color: var(--ifm-hero-background-color) !important;
+
+}
+
+.aa-ClearIcon {
+  color: var(--ifm-color-primary) !important;
+  background-color: var(--ifm-hero-background-color) !important;
+
+}
+
+.aa-DetachedFormContainer {
+    background-color: var(--ifm-hero-background-color) !important;
+    color: var(--ifm-color-primary) !important;
+}
+
+.aa-Panel {
+    background-color: var(--ifm-hero-background-color) !important;
+}
+
+.aa-DetachedContainer {
+    background-color: var(--ifm-hero-background-color) !important;
+    color: var(--ifm-color-primary) !important;
+
+}
+
+.aa-Input {
+    background-color: var(--ifm-hero-background-color) !important;
+    color: var(--ifm-color-primary) !important;
+    border-radius: 4em !important;
+    padding: 0.3em !important;
+
+}
+
+.aa-Form {
+    background-color: var(--ifm-hero-background-color) !important;
+    color: var(--ifm-color-primary) !important;
+    border-radius: 4em !important;
+    padding: 0.3em !important;
+    border: 2px solid var(--ifm-color-primary) !important;
+}
+
+
+/************************************/

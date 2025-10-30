@@ -2,9 +2,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+
 const config: Config = {
   title: 'ALARMiator',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Zusatzalarmierung und Organisationsverwaltung',
   favicon: 'img/favicon.ico',
 
   future: {
@@ -29,6 +30,14 @@ const config: Config = {
     defaultLocale: 'de',
     locales: ['de'],
   },
+
+stylesheets: [
+  {
+    href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css',
+    type: 'text/css',
+  },
+],
+
 
   presets: [
     [
@@ -55,7 +64,7 @@ const config: Config = {
       {
         indexDocs: true,
         indexBlog: false,
-        indexPages: true,
+        indexPages: false,
         language: 'de',
       },
     ],
@@ -89,7 +98,7 @@ const config: Config = {
         },
       ],
     },
-
+   
     footer: {
       style: 'dark',
       links: [
