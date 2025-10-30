@@ -79,8 +79,14 @@ const config: Config = {
         {
           title: 'Docs',
           items: [
-            { label: 'Server Docs', to: '/docs/' },
-            { label: 'Mobile Docs', to: '/docs-mobile/' },
+             {
+          label: 'Server Docs',
+          to: '/docs/intro', // OR use docId (cleaner)
+        },
+        {
+          label: 'Mobile Docs',
+          to: '/docs/docs-mobile/intro',
+        },
           ],
         },
         { title: 'More', items: [{ label: 'GitHub Repo', href: 'https://github.com/N0tAScooby/test' }] },
