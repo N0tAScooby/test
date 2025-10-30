@@ -9,9 +9,7 @@ Um ein Wallboard betreiben zu können musst du zuerst das Rest-Api Plugin sowie 
 
 
 
-Wallboardprofil
-
-
+# Wallboardprofil
 
 Jedes Wallboard benötigt als Grundlage ein sog. Wallboardprofil. Wallboardprofile werden in der ALARMiator Weboberfläche erstellt und konfiguriert. Du findest die Wallboard-Profile in der Weboberfläche im Bereich "Alarmierung" - "Wallboardprofile".
 
@@ -19,12 +17,11 @@ Jedes Wallboard benötigt als Grundlage ein sog. Wallboardprofil. Wallboardprofi
 ![](/img/image.png)
 
 
-
 Das Menü bietet Dir zwei Untermenüpunkte, "Liste" und "neu anlegen". Unter "Liste" werden Dir alle vorhandenen Wallboardprofile in einer Liste angezeigt. Mit dem Menüpunkt "neu anlegen" kannst Du ein weiteres neues Wallboardprofil erstellen.
 
 
 
-### Übersicht Wallboardprofile
+# Übersicht Wallboardprofile
 
 
 ![](/img/image-1-1024x296.png)
@@ -49,11 +46,11 @@ Folgende Spalten sind in de Liste der Wallboardprofile zu finden:
 
 
 
-### Mögliche Aktionen
+## Mögliche Aktionen
 
 
 
-#### Neues Token
+### Neues Token
 
 
 
@@ -151,8 +148,7 @@ Im nächsten Feld kannst Du für das Wallboardprofil ein **Hintergrundbild** hoc
 
 
 
-Das Feld **Konfiguration Bereitschaftsmodus** enthält die Definition der Oberfläche des Wallboards im Bereitschaftsmodus (also wenn keine Alarmierung angezeigt wird). Die Konfiguration erfolgt aktuell noch über eine textuelle Beschreibung, wie welche Widgets angeordnet werden sollen. In Zukunft ist hier ein visueller Editor geplant. Eine Beschreibung der Konfiguration der einzelnen Widgets findest Du hier im Handbuch im Bereich der Wallboard-Widgets.
-
+Das Feld **Konfiguration Bereitschaftsmodus** enthält die Definition der Oberfläche des Wallboards im Bereitschaftsmodus (also wenn keine Alarmierung angezeigt wird).
 
 
 Das Feld **Konfiguration Alarmmodus** enthält die Definition der Oberfläche des Wallboards im Alarmmodus.

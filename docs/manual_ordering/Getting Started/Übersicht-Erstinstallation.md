@@ -1,6 +1,6 @@
 ---
 title: "Übersicht Erstinstallation"
-slug: /bersichterstinstallation
+slug: /übersicht-erstinstallation
 ---
 
 # Übersicht Erstinstallation

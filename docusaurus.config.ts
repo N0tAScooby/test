@@ -46,6 +46,7 @@ stylesheets: [
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/N0tAScooby/test/edit/main/',
+          sidebarCollapsible: true
         },
 
         // You said you are NOT using the blog

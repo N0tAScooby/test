@@ -1,6 +1,6 @@
 ---
 title: "Getting Started - Legen wir los"
-slug: /gettingstarted-legenwirlos
+slug: /gettingstarted
 ---
 
 # Getting Started - Legen wir los
@@ -17,7 +17,7 @@ Alle Guides werden verlinkt und können einfach angeklickt werden. Sollte ein Pu
 
 
 
-* [Übersicht zur Erstinstallation](https://handbuch.alarmiator.de/?docs=uebersicht-erstinstallation)
+* [Übersicht zur Erstinstallation](übersicht-erstinstallation)
 
 
 
@@ -25,7 +25,7 @@ Alle Guides werden verlinkt und können einfach angeklickt werden. Sollte ein Pu
 
 
 
-* [Übersicht zu den Stammdateneinstellungen](https://handbuch.alarmiator.de/?docs=uebersicht-stammdaten-anlegen)
+* [Übersicht zu den Stammdateneinstellungen](übersicht-stammdatenanlegen)
 
 
 

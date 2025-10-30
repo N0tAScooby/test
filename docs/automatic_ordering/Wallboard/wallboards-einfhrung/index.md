@@ -5,19 +5,18 @@ slug: /wallboards-einfhrung
 
 # Wallboards - Einführung
 
-Wallboards sind in ALARMiator das, was auch als Alarmmonitor bezeichnet wird. Mit Wallboards kannst Du also Informationen gut sichtbar anzeigen.
+Wallboards sind in ALARMiator das, was auch als **Alarmmonitor** bezeichnet wird. Mit Wallboards kannst Du also Informationen gut sichtbar anzeigen.
 
 
 
-Wallboards unterscheiden dabei zwei unterschiedliche Sichten, die Bereitschafts-Sicht und die Alarm-Sicht. Das Wallboard schaltet völlig selbständig zwischen diesen beiden Sichten um. Liegt keine Alarmierung für die Organisation an der das Wallboard zugeordnet ist, wird automatisch der Bereitschaftsmodus angezeigt.
+Wallboards unterscheiden dabei zwei unterschiedliche Sichten, die **Bereitschafts-Sicht** und die **Alarm-Sicht**. Das Wallboard schaltet völlig selbständig zwischen diesen beiden Sichten um. Liegt keine Alarmierung für die Organisation an der das Wallboard zugeordnet ist, wird automatisch der Bereitschaftsmodus angezeigt.
+
+
+## Was brauche ich für ein Wallboard
 
 
 
-### Was brauche ich für ein Wallboard
-
-
-
-#### Anzeigegerät
+### Anzeigegerät
 
 
 
@@ -25,7 +24,7 @@ Grundlegend benötigst Du pro Wallboard ein Anzeigegerät wie z.B. einen Fernseh
 
 
 
-#### Abspielgerät
+### Abspielgerät
 
 
 
@@ -49,7 +48,7 @@ Der Raspberry Pi Zero W2 ist mit gerade einmal 15 EUR das günstigste Abspielger
 
 
 
-Du kannst so viele Wallboards nutzen wie Du benötigst. Technisch gibt es auch hier keine Begrenzung. Dabei ist es auch irrelevant, ob die Wallboards unterschiedliche Informationen oder alle die gleichen Informationen anzeigen sollen.
+Du kannst **so viele** Wallboards nutzen **wie Du benötigst**. Technisch gibt es auch hier keine Begrenzung. Dabei ist es auch irrelevant, ob die Wallboards unterschiedliche Informationen oder alle die gleichen Informationen anzeigen sollen.
 
 
 
@@ -73,4 +72,4 @@ Wallboards werden über eine definierte URL aufgerufen. Du kannst das gleiche Wa
 
 
 
-Der Zugriff auf Wallboards erfolgt über eine URL, die im Browser aufgerufen wird. Möchtest Du ein Wallboard an einem anderen Standort als dem des ALARMiator Servers anzeigen, so musst Du den ALARMiator Server von diesem Standort aus einfach erreichen können. Das kann über ein gemeinsames Netzwerk, einen VPN-Tunnel oder auch über eine Portfreigabe erfolgen. ALARMiator Wallboards können über https:// erreicht werden, eine Verschlüsselung der Daten ist somit gewährleistet.
+Der Zugriff auf Wallboards erfolgt über eine URL, die im Browser aufgerufen wird. Möchtest Du ein Wallboard an einem anderen Standort als dem des ALARMiator Servers anzeigen, so musst Du den ALARMiator Server von diesem Standort aus einfach erreichen können. Das kann über ein **gemeinsames Netzwerk**, **einen VPN-Tunnel** oder auch über **eine Portfreigabe** erfolgen. ALARMiator Wallboards können über https:// erreicht werden, eine Verschlüsselung der Daten ist somit gewährleistet.
