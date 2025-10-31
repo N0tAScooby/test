@@ -1,6 +1,6 @@
 ---
 title: "Lautlos - Durchbrechung iOS"
-slug: /lautlos-durchbrechungios
+slug: /docs-mobile/lautlos-durchbrechungios
 ---
 
 # Lautlos - Durchbrechung iOS

@@ -1,6 +1,6 @@
 ---
 title: "Endgeräte aktivieren"
-slug: /endgerteaktivieren
+slug: /endgeraet-aktivieren
 ---
 
 # Endgeräte aktivieren

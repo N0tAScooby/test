@@ -1,6 +1,6 @@
 ---
 title: "Übersicht Spaceport"
-slug: /bersichtspaceport
+slug: /uebersicht-spaceport
 ---
 
 # Übersicht Spaceport

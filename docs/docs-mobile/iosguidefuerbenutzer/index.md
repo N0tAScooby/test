@@ -1,6 +1,6 @@
 ---
 title: "IOS Guide Für Benutzer"
-slug: /iosguidefrbenutzer
+slug: /docs-mobile/iosguidefuerbenutzer
 ---
 
 # IOS Guide Für Benutzer

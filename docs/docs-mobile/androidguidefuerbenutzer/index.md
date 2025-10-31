@@ -1,6 +1,6 @@
 ---
 title: "Android Guide für Benutzer"
-slug: /androidguidefrbenutzer
+slug: /docs-mobile/androidguidefuerbenutzer
 ---
 
 # Android Guide für Benutzer

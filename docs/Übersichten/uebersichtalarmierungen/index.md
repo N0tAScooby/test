@@ -1,6 +1,6 @@
 ---
 title: "Übersicht Alarmierung"
-slug: /uebersichtalarmierungen
+slug: /uebersicht-alarmierungen
 ---
 
 Um die Alarmierungsfunktion von ALARMiator nutzen zu können, müssen mehrere Komponenten eingerichtet werden. Diese Anleitung führt dich Schritt für Schritt durch den Prozess.
@@ -8,13 +8,13 @@ Um die Alarmierungsfunktion von ALARMiator nutzen zu können, müssen mehrere Ko
 ## 📋 Voraussetzungen
 
 Bevor du mit der Alarmierungseinrichtung beginnst, sollten bereits vorhanden sein:
-- ✅ Mindestens eine [Organisation](../eineorganisationanlegen/index)
-- ✅ Mindestens ein [Standort](../einenstandortanlegen/index)
-- ✅ Mindestens eine [Gruppe](../gruppenanlegen/index)
-- ✅ Mindestens ein [Mitglied](../mitgliederanlegen/index)
-- ✅ Zugehöriger [Benutzer](../benutzeranlegen/index) für das Mitglied
+- ✅ Mindestens eine [Organisation](eineorganisationanlegen)
+- ✅ Mindestens ein [Standort](einenstandortanlegen)
+- ✅ Mindestens eine [Gruppe](gruppenanlegen)
+- ✅ Mindestens ein [Mitglied](mitgliederanlegen)
+- ✅ Zugehöriger [Benutzer](benutzeranlegen) für das Mitglied
 
-→ Falls noch nicht geschehen: [Stammdaten-Übersicht](../automatic_ordering/Übersichten/bersichtstammdatenanlegen/index)
+→ Falls noch nicht geschehen: [Stammdaten-Übersicht](uebersicht-stammdatenanlegen)
 
 ## 🔧 Schritt-für-Schritt Einrichtung
 
@@ -25,13 +25,13 @@ Aktiviere im Admin-Bereich folgende Plugins:
 - **REST-API Plugin** - Grundlegende API-Funktionen
 - **ALARMiator Mobile Plugin** - Alarmierung über Mobile Apps
 
-→ [Plugins verwalten](../plugins/index)
+→ [Plugins verwalten](plugins)
 
 ### 2. Schleifen anlegen
 
 Schleifen verbinden Alarmcodes mit lesbaren Bezeichnungen und steuern das Wallboard.
 
-→ [Schleifen anlegen](../schleifenanlegen/index)
+→ [Schleifen anlegen](schleifenanlegen)
 
 **Beispiel:**
 - Schleifencode: `12345`
@@ -41,7 +41,7 @@ Schleifen verbinden Alarmcodes mit lesbaren Bezeichnungen und steuern das Wallbo
 
 Lege fest, welche Mitglieder über welche Wege alarmiert werden können.
 
-→ [Alarmwegematrix einstellen](../Alarmierung/alarmwegematrixeinstellen/index)
+→ [Alarmwegematrix einstellen](alarmwegematrixeinstellen)
 
 **Verfügbare Alarmwege:**
 - Mobile App (Push-Benachrichtigung)
@@ -55,7 +55,7 @@ Lege fest, welche Mitglieder über welche Wege alarmiert werden können.
 
 Bestimme, welche Einsatzinformationen an welche Gruppen übermittelt werden.
 
-→ [Alarmdatenmatrix einstellen](../Alarmierung/alarmdatenmatrixeinstellen/index)
+→ [Alarmdatenmatrix einstellen](alarmdatenmatrixeinstellen)
 
 **Beispiel-Datenfelder:**
 - Einsatzstichwort
@@ -68,7 +68,7 @@ Bestimme, welche Einsatzinformationen an welche Gruppen übermittelt werden.
 
 Alarmierungsprofile legen fest, welche Gruppen bei welchen Schleifen alarmiert werden.
 
-→ [Alarmierungsprofile anlegen](../Alarmierung/alarmierungsprofileanlegen/index)
+→ [Alarmierungsprofile anlegen](alarmierungsprofileanlegen)
 
 **Beispiel-Profil:**
 ```
@@ -81,7 +81,7 @@ Wenn Schleife "12345" empfangen wird:
 
 Neue Endgeräte müssen vom Administrator freigegeben werden, bevor sie Alarmierungen empfangen können.
 
-→ [Endgeräte aktivieren](../endgerteaktivieren/index)
+→ [Endgeräte aktivieren](endgeraet-aktivieren)
 
 **Ablauf:**
 1. Mitglied meldet sich erstmalig in der App an
@@ -94,7 +94,7 @@ Neue Endgeräte müssen vom Administrator freigegeben werden, bevor sie Alarmier
 Wähle eine oder mehrere Alarmquellen:
 
 ### KatSys Cloud Connector (empfohlen)
-→ [KatSys Cloud Connector einrichten](../katsyscloudconnector/index)
+→ [KatSys Cloud Connector einrichten](katsyscloudconnector)
 
 **Vorteile:**
 - Direktanbindung an Leitstelle
@@ -106,7 +106,7 @@ Wähle eine oder mehrere Alarmquellen:
 - Freischaltung durch Leitstelle
 
 ### BosMon
-→ [Alarmierung mit BosMon](../Alarmierung/alarmierungmitbosmon/index)
+→ [Alarmierung mit BosMon](alarmierungmitbosmon)
 
 **Vorteile:**
 - Dekodierung von ZVEI, FMS, POCSAG
@@ -117,7 +117,7 @@ Wähle eine oder mehrere Alarmquellen:
 - API-Token von ALARMiator
 
 ### Manuelle Alarmierung
-→ [Manuelle Alarmierung auslösen](../Alarmierung/manuellealarmierungauslsen/index)
+→ [Manuelle Alarmierung auslösen](manuellealarmierungauslsen)
 
 **Anwendungsfälle:**
 - Keine Leitstellenanbindung
@@ -128,10 +128,10 @@ Wähle eine oder mehrere Alarmquellen:
 ## ✅ Installation testen
 
 ### 1. Probealarm konfigurieren
-→ [Zeitgesteuerte Probealarme](../Alarmierung/zeitgesteuerteprobealarmeanlegen/index)
+→ [Zeitgesteuerte Probealarme](zeitgesteuerteprobealarmeanlegen)
 
 ### 2. Test-Alarmierung auslösen
-- [Manuelle Alarmierung](../Alarmierung/manuellealarmierungauslsen/index) nutzen
+- [Manuelle Alarmierung](manuellealarmierungauslsen) nutzen
 - Oder Probealarm über Mobile App anfordern
 
 ### 3. Prüfen
@@ -143,7 +143,7 @@ Wähle eine oder mehrere Alarmquellen:
 ## 🔍 Troubleshooting
 
 ### Alarm kommt nicht an
-→ [Es erfolgt keine Alarmierung](../Alarmierung/eserfolgtkeinealarmierung/index)
+→ [Es erfolgt keine Alarmierung](eserfolgtkeinealarmierung)
 
 **Häufige Ursachen:**
 - Internetverbindung unterbrochen
@@ -153,23 +153,23 @@ Wähle eine oder mehrere Alarmquellen:
 - Kritische Hinweise nicht aktiviert (iOS)
 
 ### Weitere Probleme
-- [Endgeräte aktivieren](../endgerteaktivieren/index)
-- [FCM Tokens prüfen](../fcmtokens/index)
+- [Endgeräte aktivieren](endgeraet-aktivieren)
+- [FCM Tokens prüfen](fcmtokens)
 - [Community Forum](https://community.alarmiator.de)
 
 ## 📱 Mobile App einrichten
 
 Nach erfolgreicher Server-Konfiguration:
 
-1. **Android**: [Android-Guide](../docs-mobile/androidguidefrbenutzer/index)
-2. **iOS**: [iOS-Guide](../docs-mobile/iosguidefrbenutzer/index)
+1. **Android**: [Android-Guide](docs-mobile/androidguidefuerbenutzer)
+2. **iOS**: [iOS-Guide](docs-mobile/iosguidefuerbenutzer)
 
 ## 🎓 Weiterführende Themen
 
-- [Alarmdatenmatrix Details](../Alarmierung/alarmdatenmatrixeinstellen/index)
-- [Alarmwegematrix Details](../Alarmierung/alarmwegematrixeinstellen/index)
-- [KatSys Cloud Connector](../katsyscloudconnector/index)
-- [API-Tokens verwalten](../Alarmierung/alarmierungmitbosmon/index#einrichtung-api-token)
+- [Alarmdatenmatrix Details](alarmdatenmatrixeinstellen)
+- [Alarmwegematrix Details](alarmwegematrixeinstellen)
+- [KatSys Cloud Connector](katsyscloudconnector)
+- [API-Tokens verwalten](alarmierungmitbosmon#einrichtung-api-token)
 
 ---
 

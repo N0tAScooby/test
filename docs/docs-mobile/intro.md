@@ -28,7 +28,7 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 ## 📖 Plattform-spezifische Anleitungen
 
 ### Android
-→ [Android Benutzerhandbuch](androidguidefrbenutzer/index)
+→ [Android Benutzerhandbuch](androidguidefuerbenutzer)
 
 **Wichtige Themen:**
 - Akkuoptimierung deaktivieren
@@ -37,7 +37,7 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 - Alarmierungsbildschirm verstehen
 
 ### iOS
-→ [iOS Benutzerhandbuch](iosguidefrbenutzer/index)
+→ [iOS Benutzerhandbuch](iosguidefuerbenutzer)
 
 **Wichtige Themen:**
 - Kritische Hinweise aktivieren (Lautlos durchbrechen)
@@ -46,7 +46,7 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 - Alarmierungsbildschirm verstehen
 
 **Besonderheit iOS:**
-→ [Lautlos-Durchbrechung erklärt](lautlos-durchbrechungios/index)
+→ [Lautlos-Durchbrechung erklärt](lautlos-durchbrechungios)
 
 ## ⚙️ Wichtige Funktionen
 
@@ -79,11 +79,11 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 
 ### Akkuoptimierung (Android)
 **Muss deaktiviert werden**, um zuverlässig Alarme zu empfangen!
-→ Details im [Android Guide](androidguidefrbenutzer/index#akkuoptimierung-ausstellen)
+→ Details im [Android Guide](androidguidefuerbenutzer/#akkuoptimierung-ausstellen)
 
 ### Kritische Hinweise (iOS)
 **Muss aktiviert werden** für Lautlos-Durchbrechung!
-→ Details im [iOS Guide](iosguidefrbenutzer/index#lautlos-durchbrechen---kritische-hinweise-aktivieren)
+→ Details im [iOS Guide](iosguidefuerbenutzer/#lautlos-durchbrechen---kritische-hinweise-aktivieren)
 
 ### Toneinstellungen
 - Klingelton auswählen
@@ -107,17 +107,14 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 
 ### Probealarm funktioniert nicht
 - Endgerät muss vom Administrator freigegeben sein
-- → [Endgeräte aktivieren](../endgerteaktivieren/index)
+- → [Endgeräte aktivieren](/docs/endgeraet-aktivieren)
 
 ### Weitere Hilfe
-- [Server-Troubleshooting](../Alarmierung/eserfolgtkeinealarmierung/index)
+
+Setze dich zuerst mit deinem Administrator in Kontakt, ob dein Endgerät bereits aktiviert worden ist oder ob hier eine Einstellung fehlt.
+
+- [Server-Troubleshooting](/docs/eserfolgtkeinealarmierung)
 - [Community Forum](https://community.alarmiator.de)
-
-## 📚 Zusätzliche Themen
-
-- [Hydranten eintragen](../hydranteneintragen/index)
-- [Alarmwegematrix](../Alarmierung/alarmwegematrixeinstellen/index)
-- [Alarmdatenmatrix](../Alarmierung/alarmdatenmatrixeinstellen/index)
 
 ---
 

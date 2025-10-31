@@ -1,6 +1,6 @@
 ---
 title: "Übersicht Stammdaten anlegen"
-slug: /übersicht-stammdatenanlegen
+slug: /uebersicht-stammdatenanlegen
 ---
 
 # Übersicht Stammdaten anlegen

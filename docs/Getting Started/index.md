@@ -12,79 +12,79 @@ Bevor du startest, stelle sicher dass du:
 - Eine **stabile Internetverbindung** verfügbar ist
 - Grundkenntnisse in **SSH und Linux** mitbringst (hilfreich, aber nicht zwingend)
 
-→ [Detaillierte Systemanforderungen](../systemanforderungen/index)
+→ [Detaillierte Systemanforderungen](systemanforderungen)
 
 ## 🎯 Installationsschritte
 
 ### 1️⃣ Hardware vorbereiten
-- [Raspberry Pi / Linux Server einrichten](../installationraspberrypilinuxserver/index)
+- [Raspberry Pi / Linux Server einrichten](installationraspberrypilinuxserver)
 - Betriebssystem installieren
 - Netzwerkverbindung herstellen
 
 ### 2️⃣ ALARMiator Server installieren
 
 **Empfohlen (Docker Compose)**:
-- [Installation via Docker Compose](../automatic_ordering/Docker/installationdesserversviadockercomposeempfohlen/index)
+- [Installation via Docker Compose](installationdesserversviadockercomposeempfohlen)
 - Einfache Updates
 - Weniger Wartungsaufwand
 
 **Alternativ (Native Installation)**:
-- [Native Installation](../installationalarmiator-servernativ/index)
+- [Native Installation](installationalarmiator-servernativ)
 - Mehr Kontrolle
 - Für erfahrene Nutzer
 
 ### 3️⃣ Netzwerk & SSL einrichten
-1. [Eigene Domain einrichten](../eigenedomaineinrichten/index)
-2. [SSL-Zertifikate konfigurieren](../automatic_ordering/Docker/installationdesserversviadockercomposeempfohlen/index#ssl-zertifikate-installieren)
-3. [Nginx Proxy Manager absichern](NginxProxyManagerVerschlüsseln) (für VPS/Root-Server)
+1. [Eigene Domain einrichten](eigenedomaineinrichten)
+2. [SSL-Zertifikate konfigurieren](installationdesserversviadockercomposeempfohlen#ssl-zertifikate-installieren)
+3. [Nginx Proxy Manager absichern](nginx-proxy-manager-verschluesseln) (für VPS/Root-Server)
 
 ### 4️⃣ Grundeinstellungen vornehmen
-- [Erste Einstellungen nach Installation](../Admin/ersteeinstellungenimadminpanelnachderinstallation/index)
+- [Erste Einstellungen nach Installation](ersteeinstellungenimadminpanelnachderinstallation)
 - Servername und Domain festlegen
 - Adminbenachrichtigungen konfigurieren
 - Berechtigungsgruppen anlegen
 
 ### 5️⃣ Stammdaten anlegen
-- [Übersicht Stammdaten](../automatic_ordering/Übersichten/bersichtstammdatenanlegen/index)
+- [Übersicht Stammdaten](uebersicht-stammdatenanlegen)
 - Organisation → Standort → Gruppen → Mitglieder → Benutzer
 
 ### 6️⃣ Alarmierung aktivieren
-- [Übersicht Alarmierung](../automatic_ordering/Übersichten/bersichtalarmierungen/index)
+- [Übersicht Alarmierung](uebersicht-alarmierungen)
 - Alarmwege und -profile einrichten
 - KatSys oder andere Alarmquelle anbinden
 
 ### 7️⃣ Wallboard einrichten (optional)
-- [Übersicht Wallboard](../automatic_ordering/Übersichten/bersichtwallboard/index)
+- [Übersicht Wallboard](uebersicht-wallboard)
 - Raspberry Pi Zero als Wallboard-Client
 - Widgets konfigurieren
 
 ### 8️⃣ Spaceport Client (optional)
-- [Übersicht Spaceport](../automatic_ordering/Übersichten/bersichtspaceport/index)
+- [Übersicht Spaceport](uebersicht-spaceport)
 - Abgesetzte Standorte anbinden
 
 ## 🔄 Nach der Installation
 
 ### Regelmäßige Aufgaben
-- [Backups erstellen](../Admin/backupdeinesserverserstellen/index)
-- [Server aktualisieren](../updatedesalarmiatorservers/index)
+- [Backups erstellen](backupdeinesserverserstellen)
+- [Server aktualisieren](updatedesalarmiatorservers)
 - Logs überprüfen
 
 ### Erweiterte Konfiguration
-- [Plugins aktivieren](../plugins/index)
-- [Email-Vorlagen anpassen](../automatic_ordering/Seiten/email-verarbeitung/index)
-- [Berechtigungen verwalten](../Admin/berechtigungsgruppenanlegen/index)
+- [Plugins aktivieren](plugins)
+- [Email-Vorlagen anpassen](email-verarbeitung)
+- [Berechtigungen verwalten](berechtigungsgruppenanlegen)
 
 ## 🆘 Probleme?
 
-- [Docker Troubleshooting](../automatic_ordering/Docker/dockertroubleshooting/index)
-- [Allgemeine Probleme](../externeipadressewirdnichtaktualisiert/index)
+- [Docker Troubleshooting](dockertroubleshooting)
+- [Allgemeine Probleme](externeipadressewirdnichtaktualisiert)
 - [Community Forum](https://community.alarmiator.de)
 
 ## 📚 Weiterführende Links
 
-- [ALARMiator ausprobieren (PROBIERiator)](../manual_ordering/ALARMiator%20Probieren/index)
-- [Alternative Reverse Proxies](alternativereverseproxies/index)
-- [Von nativer zu Docker Compose migrieren](../automatic_ordering/Docker/vonnativerinstallationzudockercomposemigrieren/index)
+- [ALARMiator ausprobieren (PROBIERiator)](alarmiator-probieren)
+- [Alternative Reverse Proxies](alternativereverseproxies)
+- [Von nativer zu Docker Compose migrieren](vonnativerinstallationzudockercomposemigrieren)
 
 ---
 

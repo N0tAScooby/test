@@ -9,8 +9,8 @@ const sidebars: SidebarsConfig = {
       label: 'Benutzerhandbuch',
       collapsed: false,
       items: [
-        'docs-mobile/androidguidefrbenutzer/index',
-        'docs-mobile/iosguidefrbenutzer/index',
+        'docs-mobile/androidguidefuerbenutzer/index',
+        'docs-mobile/iosguidefuerbenutzer/index',
         'docs-mobile/lautlos-durchbrechungios/index',
       ],
     },
@@ -76,7 +76,7 @@ const sidebars: SidebarsConfig = {
       label: 'Stammdaten',
       collapsed: true,
       items: [
-        'Übersichten/bersichtstammdatenanlegen/index',
+        'Übersichten/uebersichtstammdatenanlegen/index',
         'eineorganisationanlegen/index',
         'einenstandortanlegen/index',
         'gruppenanlegen/index',
@@ -94,7 +94,7 @@ const sidebars: SidebarsConfig = {
       label: 'Alarmierung',
       collapsed: true,
       items: [
-        'Übersichten/bersichtalarmierungen/index',
+        'Übersichten/uebersichtalarmierungen/index',
         {
           type: 'category',
           label: 'Einrichtung',
@@ -139,7 +139,7 @@ const sidebars: SidebarsConfig = {
       label: 'Inventar',
       collapsed: true,
       items: [
-        'Übersichten/inventar-bersicht/index',
+        'Übersichten/inventar-uebersicht/index',
         'aprtsanlegen/index',
         'hydranteneintragen/index',
       ],
@@ -162,7 +162,7 @@ const sidebars: SidebarsConfig = {
       label: 'Wallboards',
       collapsed: true,
       items: [
-        'Übersichten/bersichtwallboard/index',
+        'Übersichten/uebersichtwallboard/index',
         'Wallboard/wallboards-einfhrung/index',
         'Wallboard/wallboard-konfiguration/index',
         'Wallboard/Wallboard-Builder/index',
@@ -209,7 +209,7 @@ const sidebars: SidebarsConfig = {
       label: 'Spaceport Client',
       collapsed: true,
       items: [
-        'Übersichten/bersichtspaceport/index',
+        'Übersichten/uebersichtspaceport/index',
         'spaceportclient/index',
         'spaceportclientanlegen/index',
       ],
@@ -222,7 +222,7 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         'moduladministration/index',
-        'Übersichten/bersicht-dashboard/index',
+        'Übersichten/uebersicht-dashboard/index',
         'grundeinstellungen/index',
         {
           type: 'category',
@@ -273,7 +273,7 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         'module/index',
-        'Übersichten/bersichtparser/index',
+        'Übersichten/uebersichtparser/index',
         'fcmtokens/index',
       ],
     },

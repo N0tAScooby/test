@@ -1,6 +1,6 @@
 ---
 title: "Nginx Proxy Manager Login verschlüsseln"
-slug: /nginxproxymanagerloginverschlsseln
+slug: /nginx-proxy-manager-verschluesseln
 ---
 
 # Nginx Proxy Manager Login verschlüsseln

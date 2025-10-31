@@ -8,20 +8,20 @@ ALARMiator ist eine **Open-Source-Lösung** zur Verwaltung und Alarmierung von R
 
 - **Neu hier?** Starte mit unserem [PROBIERiator](alarmiator-probieren) - teste ALARMiator ohne Installation
 - **Installation?** Folge der [Schritt-für-Schritt-Anleitung](gettingstarted)
-- **Mobile App?** Siehe [Android](androidguidefrbenutzer) oder [iOS Guide](iosguidefrbenutzer)
+- **Mobile App?** Siehe [Android](docs-mobile/androidguidefuerbenutzer) oder [iOS Guide](docs-mobile/androidguidefuerbenutzer)
 
 ## 📚 Hauptbereiche
 
 ### [Installation & Einrichtung](gettingstarted)
 Server-Installation, Netzwerk-Konfiguration und erste Einrichtungsschritte.
 
-### [Stammdaten](übersicht-stammdatenanlegen)
+### [Stammdaten](uebersicht-stammdatenanlegen)
 Organisationen, Standorte, Mitglieder und Benutzer verwalten.
 
-### [Alarmierung](uebersichtalarmierungen)
+### [Alarmierung](uebersicht-alarmierungen)
 Alarmierungsprofile, Alarmwege und Alarmquellen einrichten.
 
-### [Wallboards](uebersichtwallboard)
+### [Wallboards](uebersicht-wallboard)
 Alarmmonitore für Bereitschafts- und Alarmmodus konfigurieren.
 
 ### [Administration](uebersicht-dashboard)
@@ -39,8 +39,8 @@ Systemverwaltung, Plugins, Updates und Wartung.
 ## 🆘 Hilfe & Support
 
 - **Community**: [community.alarmiator.de](https://community.alarmiator.de)
-- **Troubleshooting**: [Docker](Docker/dockertroubleshooting/index) | [Allgemein](externeipadressewirdnichtaktualisiert/index)
-- **Updates**: [Server aktualisieren](updatedesalarmiatorservers/index)
+- **Troubleshooting**: [Docker](dockertroubleshooting) | [Allgemein](externeipadressewirdnichtaktualisiert)
+- **Updates**: [Server aktualisieren](updatedesalarmiatorservers)
 
 ## 📖 Über diese Dokumentation
 
