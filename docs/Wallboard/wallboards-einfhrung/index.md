@@ -1,6 +1,6 @@
 ---
 title: "Wallboards - Einführung"
-slug: /wallboards-einfhrung
+slug: /wallboards-einfuehrung
 ---
 
 # Wallboards - Einführung

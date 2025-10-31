@@ -28,7 +28,7 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 ## 📖 Plattform-spezifische Anleitungen
 
 ### Android
-→ [Android Benutzerhandbuch](androidguidefuerbenutzer)
+→ [Android Benutzerhandbuch](android-guide-fuer-benutzer)
 
 **Wichtige Themen:**
 - Akkuoptimierung deaktivieren
@@ -37,7 +37,7 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 - Alarmierungsbildschirm verstehen
 
 ### iOS
-→ [iOS Benutzerhandbuch](iosguidefuerbenutzer)
+→ [iOS Benutzerhandbuch](ios-guide-fuer-benutzer)
 
 **Wichtige Themen:**
 - Kritische Hinweise aktivieren (Lautlos durchbrechen)
@@ -46,7 +46,7 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 - Alarmierungsbildschirm verstehen
 
 **Besonderheit iOS:**
-→ [Lautlos-Durchbrechung erklärt](lautlos-durchbrechungios)
+→ [Lautlos-Durchbrechung erklärt](lautlos-durchbrechung-ios)
 
 ## ⚙️ Wichtige Funktionen
 
@@ -79,11 +79,11 @@ Die ALARMiator Mobile App ist für **iOS** und **Android** verfügbar und ermög
 
 ### Akkuoptimierung (Android)
 **Muss deaktiviert werden**, um zuverlässig Alarme zu empfangen!
-→ Details im [Android Guide](androidguidefuerbenutzer/#akkuoptimierung-ausstellen)
+→ Details im [Android Guide](android-guide-fuer-benutzer/#akkuoptimierung-ausstellen)
 
 ### Kritische Hinweise (iOS)
 **Muss aktiviert werden** für Lautlos-Durchbrechung!
-→ Details im [iOS Guide](iosguidefuerbenutzer/#lautlos-durchbrechen---kritische-hinweise-aktivieren)
+→ Details im [iOS Guide](ios-guide-fuer-benutzer/#lautlos-durchbrechen---kritische-hinweise-aktivieren)
 
 ### Toneinstellungen
 - Klingelton auswählen

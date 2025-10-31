@@ -1,6 +1,6 @@
 ---
 title: "Übersicht Mobile App"
-slug: /bersichtmobileapp
+slug: /uebersichtmobileapp
 ---
 
 # Übersicht Mobile App
@@ -9,7 +9,7 @@ slug: /bersichtmobileapp
 
 
 
-1. [Android App Guide](https://handbuch.alarmiator.de/?docs=android-guide-fuer-benutzer)
+1. [Android App Guide](docs-mobile/android-guide-fuer-benutzer)
 
 
 
@@ -17,8 +17,8 @@ slug: /bersichtmobileapp
 
 
 
-1. [IOS App Guide](https://handbuch.alarmiator.de/?docs=ios-guide-fuer-benutzer)
-2. [Erklärung zur Lautlos Durchbrechung](https://handbuch.alarmiator.de/?docs=lautlos-durchbrechung-ios)
+1. [IOS App Guide](docs-mobile/ios-guide-fuer-benutzer)
+2. [Erklärung zur Lautlos Durchbrechung](docs-mobile/lautlos-durchbrechung-ios)
 
 
 
@@ -30,4 +30,4 @@ slug: /bersichtmobileapp
 
 
 
-1. [Hydranten über die App einfügen](https://handbuch.alarmiator.de/?docs=hydranten-eintragen)
+1. [Hydranten über die App einfügen](hydranten-eintragen)

@@ -1,6 +1,6 @@
 ---
 title: "Berechtigungsgruppen anlegen"
-slug: /berechtigungsgruppenanlegen
+slug: /berechtigungsgruppen-anlegen
 ---
 
 # Berechtigungsgruppen anlegen

@@ -25,7 +25,7 @@ Um später dein Backup problemlos einzuspielen update zuerst deinen nativen Serv
 
 
 
-Solltest du Docker noch nicht installiert haben kannst du im Guide zur [Installation des Servers mit Docker Compose](https://handbuch.alarmiator.de/?docs=installation-des-servers-via-docker-compose-empfohlen) nachschauen wie das geht. Relevant sind Schritte 1 bis einschließlich 4. Folge nach dem Installieren von Docker wieder diesem Guide, um die Migration durchzuführen.
+Solltest du Docker noch nicht installiert haben kannst du im Guide zur [Installation des Servers mit Docker Compose](installation-des-servers-via-docker-compose) nachschauen wie das geht. Relevant sind Schritte 1 bis einschließlich 4. Folge nach dem Installieren von Docker wieder diesem Guide, um die Migration durchzuführen.
 
 
 
@@ -523,4 +523,4 @@ Um auch euren Nginx Proxy Manager zu verschlüsseln lest euch diesen Guide durch
 
 
 
-Hier geht's [zum Guide](https://handbuch.alarmiator.de/?docs=nginx-proxy-manager-login-verschluesseln).
+Hier geht's [zum Guide](nginx-proxy-manager-verschluesseln).

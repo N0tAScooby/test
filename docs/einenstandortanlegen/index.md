@@ -1,6 +1,6 @@
 ---
 title: "Einen Standort anlegen"
-slug: /einenstandortanlegen
+slug: /einen-standort-anlegen
 ---
 
 # Einen Standort anlegen

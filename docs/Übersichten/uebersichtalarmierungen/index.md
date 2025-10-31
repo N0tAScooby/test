@@ -8,11 +8,11 @@ Um die Alarmierungsfunktion von ALARMiator nutzen zu können, müssen mehrere Ko
 ## 📋 Voraussetzungen
 
 Bevor du mit der Alarmierungseinrichtung beginnst, sollten bereits vorhanden sein:
-- ✅ Mindestens eine [Organisation](eineorganisationanlegen)
-- ✅ Mindestens ein [Standort](einenstandortanlegen)
-- ✅ Mindestens eine [Gruppe](gruppenanlegen)
-- ✅ Mindestens ein [Mitglied](mitgliederanlegen)
-- ✅ Zugehöriger [Benutzer](benutzeranlegen) für das Mitglied
+- ✅ Mindestens eine [Organisation](eine-organisation-anlegen)
+- ✅ Mindestens ein [Standort](einen-standort-anlegen)
+- ✅ Mindestens eine [Gruppe](gruppen-anlegen)
+- ✅ Mindestens ein [Mitglied](mitglieder-anlegen)
+- ✅ Zugehöriger [Benutzer](benutzer-anlegen) für das Mitglied
 
 → Falls noch nicht geschehen: [Stammdaten-Übersicht](uebersicht-stammdatenanlegen)
 
@@ -106,7 +106,7 @@ Wähle eine oder mehrere Alarmquellen:
 - Freischaltung durch Leitstelle
 
 ### BosMon
-→ [Alarmierung mit BosMon](alarmierungmitbosmon)
+→ [Alarmierung mit BosMon](alarmierung-mit-bosmon)
 
 **Vorteile:**
 - Dekodierung von ZVEI, FMS, POCSAG
@@ -161,15 +161,15 @@ Wähle eine oder mehrere Alarmquellen:
 
 Nach erfolgreicher Server-Konfiguration:
 
-1. **Android**: [Android-Guide](docs-mobile/androidguidefuerbenutzer)
-2. **iOS**: [iOS-Guide](docs-mobile/iosguidefuerbenutzer)
+1. **Android**: [Android-Guide](docs-mobile/android-guide-fuer-benutzer)
+2. **iOS**: [iOS-Guide](docs-mobile/ios-guide-fuer-benutzer)
 
 ## 🎓 Weiterführende Themen
 
 - [Alarmdatenmatrix Details](alarmdatenmatrixeinstellen)
 - [Alarmwegematrix Details](alarmwegematrixeinstellen)
 - [KatSys Cloud Connector](katsyscloudconnector)
-- [API-Tokens verwalten](alarmierungmitbosmon#einrichtung-api-token)
+- [API-Tokens verwalten](alarmierung-mit-bosmon)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Alarmierung mit BosMon"
-slug: /alarmierungmitbosmon
+slug: /alarmierung-mit-bosmon
 ---
 
 # Alarmierung mit BosMon

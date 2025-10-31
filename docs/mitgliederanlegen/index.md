@@ -1,6 +1,6 @@
 ---
 title: "Mitglieder anlegen"
-slug: /mitgliederanlegen
+slug: /mitglieder-anlegen
 ---
 
 # Mitglieder anlegen

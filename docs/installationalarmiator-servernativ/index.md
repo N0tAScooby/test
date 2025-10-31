@@ -5,7 +5,7 @@ slug: /installationalarmiator-servernativ
 
 # Installation ALARMiator-Server Nativ
 
-**Aktuell wird es empfohlen den Server mit Docker Compose einzurichten, statt ihn nativ zu installieren wie das geht findest du [hier](https://handbuch.alarmiator.de/?docs=installation-des-servers-via-docker-compose-empfohlen).  
+**Aktuell wird es empfohlen den Server mit Docker Compose einzurichten, statt ihn nativ zu installieren wie das geht findest du [hier](installation-des-servers-via-docker-compose).  
 Solltest du ihn trotzdem nativ installieren wollen ist das der richtige Guide.**
 
 

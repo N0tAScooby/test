@@ -1,6 +1,6 @@
 ---
 title: "Qualifikationen anlegen"
-slug: /qualifikationenanlegen
+slug: /qualifikationen-anlegen
 ---
 
 # Qualifikationen anlegen

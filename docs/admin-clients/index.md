@@ -5,7 +5,7 @@ slug: /admin-clients
 
 # Admin-Clients
 
-Unsere abgesetzte Clients heißen Spaceport. Wie man einen Spaceport einrichtet findest du [hier](https://handbuch.alarmiator.de/?docs=spaceport-client-anlegen).
+Unsere abgesetzte Clients heißen Spaceport. Wie man einen Spaceport einrichtet findest du [hier](uebersicht-spaceport).
 
 
 

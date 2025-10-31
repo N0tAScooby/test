@@ -1,6 +1,6 @@
 ---
 title: "Installation auf Basis Raspberry Pi Zero W2"
-slug: /installationaufbasisraspberrypizerow2
+slug: /installation-auf-basis-raspberry-pi-zero-w2
 ---
 
 # Installation auf Basis Raspberry Pi Zero W2

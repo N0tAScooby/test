@@ -45,7 +45,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'Getting Started/Übersicht-Erstinstallation',
             'installationraspberrypilinuxserver/index',
-            'Docker/installationdesserversviadockercomposeempfohlen/index',
+            'Docker/installationdesserversviadockercompose/index',
             'installationalarmiator-servernativ/index',
           ],
         },
@@ -62,7 +62,7 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Erste Schritte',
           items: [
-            'Admin/ersteeinstellungenimadminpanelnachderinstallation/index',
+            'Admin/erste-einstellungen-im-adminpanel-nach-der-installation/index',
             'Admin/backupdeinesserverserstellen/index',
             'Admin/berechtigungsgruppenanlegen/index',
           ],

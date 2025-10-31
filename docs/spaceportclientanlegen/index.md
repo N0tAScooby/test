@@ -1,6 +1,6 @@
 ---
 title: "Spaceport Client anlegen"
-slug: /spaceportclientanlegen
+slug: /spaceport-client-anlegen
 ---
 
 # Spaceport Client anlegen
@@ -18,12 +18,7 @@ Was du benötigst:
 
 
 
-Um den Spaceport zu installieren verbinde dich per ssh mit deinem Pi:
-
-
-
-* Wie man sich per ssh verbindet steht [hier](https://handbuch.alarmiator.de/?docs=installation-alarmiator-server#7-toc-title)
-
+Um den Spaceport zu installieren verbinde dich per ssh mit deinem Pi.
 
 
 Lade dir nun das aktuellste Spaceport Release runter:
@@ -42,8 +37,8 @@ unzip ALARMiator-Spaceport-2.0.2-stable.zip
 
 
 
-1. [Aktualisieren der Systempakete](https://handbuch.alarmiator.de/?docs=installation-server#8-toc-title)
-2. [NodeJs Installieren](https://handbuch.alarmiator.de/?docs=installation-server#11-toc-title)
+1. [Aktualisieren der Systempakete](installation-des-servers-via-docker-compose)
+2. [NodeJs Installieren](installation-des-servers-via-docker-compose)
 
 
 
@@ -141,8 +136,7 @@ Wird der Spaceport im gleichen Netz wie der Server betrieben kann man die SSL Ve
 
 
 
-Nutzt man den Spaceport Client in einem externen Netz, sollte man die SSL Verschlüsselung für eine höhere Sicherheit aktivieren. Es wird empfohlen den Server über den Proxy Manager zu betreiben ([siehe hier](https://handbuch.alarmiator.de/?docs=reverse-proxy-einrichten)). Der Port hierfür ist **443**.
-
+Nutzt man den Spaceport Client in einem externen Netz, sollte man die SSL Verschlüsselung für eine höhere Sicherheit aktivieren. Es wird empfohlen den Server über den Proxy Manager zu betreiben wie das geht findest du in der Anleitung für die([ Installation des Servers](installation-des-servers-via-docker-compose)). Der Port hierfür ist **443**.
 
 
 ### API Token erstellen

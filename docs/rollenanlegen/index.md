@@ -1,6 +1,6 @@
 ---
 title: "Rollen anlegen"
-slug: /rollenanlegen
+slug: /rollen-anlegen
 ---
 
 # Rollen anlegen

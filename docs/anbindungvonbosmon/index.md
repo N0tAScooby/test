@@ -103,7 +103,7 @@ Je nachdem, an welcher Stelle die Variable hier angeordnet ist, wird sie auch in
 
 
 
-Die in der „%telegramm.adresse%“ hinterlegte Schleifennummer muss zusätzlich im ALARMiator-Server als Schleife hinterlegt sein ([Schleifen anlegen Doku](https://handbuch.alarmiator.de/?docs=schleifen-anlegen)) sowie ein Alarmierungsprofil dafür erstellt werden ([Doku Alarmierungsprofil](https://handbuch.alarmiator.de/?docs=alarmierungsprofile-anlegen)), welche die jeweilige Gruppe per ALARMiator alarmiert. Die zu übermittelnden Daten an die Einsatzkräfte auf Schleifenebene kann natürlich im ALARMiator in der Alarmdatenmatrix eingestellt werden ([Doku Alarmdatenmatrix](https://handbuch.alarmiator.de/?docs=alarmdatenmatrix-einstellen)), um die Menge an eingehenden Einsatzinfos und die Menge an übermittelten Einsatzinfos an Einsatzkräfte einzustellen.
+Die in der „%telegramm.adresse%“ hinterlegte Schleifennummer muss zusätzlich im ALARMiator-Server als Schleife hinterlegt sein ([Schleifen anlegen Doku](schleifenanlegen)) sowie ein Alarmierungsprofil dafür erstellt werden ([Doku Alarmierungsprofil](alarmierungsprofileanlegen)), welche die jeweilige Gruppe per ALARMiator alarmiert. Die zu übermittelnden Daten an die Einsatzkräfte auf Schleifenebene kann natürlich im ALARMiator in der Alarmdatenmatrix eingestellt werden ([Doku Alarmdatenmatrix](alarmdatenmatrixeinstellen)), um die Menge an eingehenden Einsatzinfos und die Menge an übermittelten Einsatzinfos an Einsatzkräfte einzustellen.
 
 
 

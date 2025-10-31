@@ -8,7 +8,7 @@ ALARMiator ist eine **Open-Source-Lösung** zur Verwaltung und Alarmierung von R
 
 - **Neu hier?** Starte mit unserem [PROBIERiator](alarmiator-probieren) - teste ALARMiator ohne Installation
 - **Installation?** Folge der [Schritt-für-Schritt-Anleitung](gettingstarted)
-- **Mobile App?** Siehe [Android](docs-mobile/androidguidefuerbenutzer) oder [iOS Guide](docs-mobile/androidguidefuerbenutzer)
+- **Mobile App?** Siehe [Android](docs-mobile/android-guide-fuer-benutzer) oder [iOS Guide](docs-mobile/android-guide-fuer-benutzer)
 
 ## 📚 Hauptbereiche
 

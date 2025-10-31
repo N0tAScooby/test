@@ -32,4 +32,4 @@ In unserem Beispiel wird das Widget mit einer Breite von zwei Spalten (cols) und
 
 
 
-Damit die Route berechnet werden kann, muss ein API-Key in den Grundeinstellungen eingetragen sein. [Hier geht es zum Grundeinstellungswalkthrough.](https://handbuch.alarmiator.de/?docs=erste-einstellungen-im-adminpanel-nach-der-installation)
+Damit die Route berechnet werden kann, muss ein API-Key in den Grundeinstellungen eingetragen sein. [Hier geht es zum Grundeinstellungswalkthrough.](erste-einstellungen-im-adminpanel-nach-der-installation)

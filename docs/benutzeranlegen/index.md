@@ -1,6 +1,6 @@
 ---
 title: "Benutzer anlegen"
-slug: /benutzeranlegen
+slug: /benutzer-anlegen
 ---
 
 # Benutzer anlegen

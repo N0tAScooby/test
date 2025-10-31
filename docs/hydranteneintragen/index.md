@@ -1,6 +1,6 @@
 ---
 title: "Hydranten eintragen"
-slug: /hydranteneintragen
+slug: /hydranten-eintragen
 ---
 
 # Hydranten eintragen

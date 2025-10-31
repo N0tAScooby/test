@@ -22,7 +22,7 @@ Hier findet ihr auch Änderungen die nicht direkt ein Softwareupdate des ALARMia
 
 
 
-* Wir empfehlen für VPS Nutzer die Einrichtung einer Subdomain mit https zur Verschlüsselung des Nginx Admin Panels: [Mehr dazu](https://handbuch.alarmiator.de/?docs=nginx-proxy-manager-login-verschluesseln)
+* Wir empfehlen für VPS Nutzer die Einrichtung einer Subdomain mit https zur Verschlüsselung des Nginx Admin Panels: [Mehr dazu](nginx-proxy-manager-verschluesseln)
 * Wir empfehlen das Force SSL und HSTS Flag im Nginx Proxy Manager zu setzen, um zu gewährleisten, dass http Anfragen auf https umgeleitet werden:
 
 
@@ -203,7 +203,7 @@ volumes:
 
 
 
-Falls ihr euch nicht mehr sicher seid wie das mit dem ändern geht könnt ihr nochmal den  [Guide zur Erstinstallation durchschauen](https://handbuch.alarmiator.de/?docs=installation-des-servers-via-docker-compose-empfohlen)
+Falls ihr euch nicht mehr sicher seid wie das mit dem ändern geht könnt ihr nochmal den  [Guide zur Erstinstallation durchschauen](installation-des-servers-via-docker-compose)
 
 
 

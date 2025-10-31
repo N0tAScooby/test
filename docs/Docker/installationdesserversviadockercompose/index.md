@@ -1,6 +1,6 @@
 ---
 title: "Installation des Servers via Docker Compose (empfohlen)"
-slug: /installationdesserversviadockercomposeempfohlen
+slug: /installation-des-servers-via-docker-compose
 ---
 
 # Installation des Servers via Docker Compose (empfohlen)
@@ -535,4 +535,4 @@ Falls du das nicht kannst haben wir eine Docker Troubleshooting Guide. Dort ist 
 
 
 
-Bitte lest euch [diesen Guide](https://handbuch.alarmiator.de/?docs=nginx-proxy-manager-login-verschluesseln) durch.
+Bitte lest euch [diesen Guide](nginx-proxy-manager-verschluesseln) durch.

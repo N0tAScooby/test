@@ -1,6 +1,6 @@
 ---
 title: "Spaceport Client"
-slug: /spaceportclient
+slug: /spaceport-client
 ---
 
 # Spaceport Client

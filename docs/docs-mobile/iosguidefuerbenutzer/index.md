@@ -1,6 +1,6 @@
 ---
 title: "IOS Guide Für Benutzer"
-slug: /docs-mobile/iosguidefuerbenutzer
+slug: /docs-mobile/ios-guide-fuer-benutzer
 ---
 
 # IOS Guide Für Benutzer
@@ -134,9 +134,6 @@ Um einen Probealarm anzufordern navigiere zu deinem Benutzerprofil
 
 
 
-Anweisungen hierzu findest du auch nochmal unter [Erster Login](#ErsterLoginIOS)
-
-
 
 ![](/img/IMG_3745-1024x891.png)
 
@@ -193,9 +190,7 @@ Es gibt insgesamt 5 Unterseiten (auf dem Bild mit Nummer unten markiert):
 Solltest du mehrere Profile in deiner App haben, kannst du für jedes Profil eigene Toneinstellungen und Farbeinstellungen vornehmen.
 
 
-
-Navigiere zu deinem Benutzerprofil (Anweisungen hierzu findest du auch nochmal unter [Erster Login](#ErsterLoginIOS))
-
+Navigiere zu deinem Benutzerprofil.
 
 
 ![](/img/IMG_3745-1024x891.png)
@@ -210,7 +205,7 @@ Solltest du mehrere Benutzerprofile haben,
 
 ![](/img/IMG_3748-812x1024.png)
 
-Hier kannst du für dein Benutzerprofil unter "Eigenen Ton zuweisen" noch einmal spezifische Toneinstellungen vornehmen. Diese Einstellungen überschreiben die globalen Einstellungen die bereits unter [Toneinstellungen anpassen](#GlobaleToneinstellungenAndroid) beschrieben wurden.
+Hier kannst du für dein Benutzerprofil unter "Eigenen Ton zuweisen" noch einmal spezifische Toneinstellungen vornehmen. Diese Einstellungen überschreiben die globalen Einstellungen.
 
 
 

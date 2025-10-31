@@ -1,6 +1,6 @@
 ---
 title: "Android Guide für Benutzer"
-slug: /docs-mobile/androidguidefuerbenutzer
+slug: /docs-mobile/android-guide-fuer-benutzer
 ---
 
 # Android Guide für Benutzer
@@ -129,10 +129,6 @@ Um einen Probealarm anzufordern navigiere zu deinem Benutzerprofil
 
 
 
-Anweisungen hierzu findest du auch nochmal unter [Erster Login](#ErsterLoginAndroid)
-
-
-
 ![](/img/WhatsApp-Image-2021-12-20-at-15.02.25-11-528x1024.jpeg)
 
 Tippe hier auf Probealarm anfordern.
@@ -197,10 +193,6 @@ Navigiere zu deinem Benutzerprofil
 
 
 
-Anweisungen hierzu findest du auch nochmal unter [Erster Login](#ErsterLoginAndroid)
-
-
-
 ![](/img/WhatsApp-Image-2021-12-20-at-15.02.25-11-528x1024.jpeg)
 
 Klicke auf das Männchen mit dem Zahnrad, um die Profileinstellungen aufzurufen
@@ -213,7 +205,7 @@ Hier kannst du für dein Benutzerprofil noch einmal spezifische Toneinstellungen
 
 
 
-Diese Einstellungen überschreiben die globalen Einstellungen die bereits unter [Toneinstellungen anpassen](#GlobaleToneinstellungenAndroid) beschrieben wurden.
+Diese Einstellungen überschreiben die globalen Einstellungen.
 
 
 

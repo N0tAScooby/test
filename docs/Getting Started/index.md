@@ -24,7 +24,7 @@ Bevor du startest, stelle sicher dass du:
 ### 2️⃣ ALARMiator Server installieren
 
 **Empfohlen (Docker Compose)**:
-- [Installation via Docker Compose](installationdesserversviadockercomposeempfohlen)
+- [Installation via Docker Compose](installation-des-servers-via-docker-compose)
 - Einfache Updates
 - Weniger Wartungsaufwand
 
@@ -35,11 +35,11 @@ Bevor du startest, stelle sicher dass du:
 
 ### 3️⃣ Netzwerk & SSL einrichten
 1. [Eigene Domain einrichten](eigenedomaineinrichten)
-2. [SSL-Zertifikate konfigurieren](installationdesserversviadockercomposeempfohlen#ssl-zertifikate-installieren)
+2. [SSL-Zertifikate konfigurieren](installation-des-servers-via-docker-compose#ssl-zertifikate-installieren)
 3. [Nginx Proxy Manager absichern](nginx-proxy-manager-verschluesseln) (für VPS/Root-Server)
 
 ### 4️⃣ Grundeinstellungen vornehmen
-- [Erste Einstellungen nach Installation](ersteeinstellungenimadminpanelnachderinstallation)
+- [Erste Einstellungen nach Installation](erste-einstellungen-im-adminpanel-nach-der-installation)
 - Servername und Domain festlegen
 - Adminbenachrichtigungen konfigurieren
 - Berechtigungsgruppen anlegen
@@ -72,7 +72,7 @@ Bevor du startest, stelle sicher dass du:
 ### Erweiterte Konfiguration
 - [Plugins aktivieren](plugins)
 - [Email-Vorlagen anpassen](email-verarbeitung)
-- [Berechtigungen verwalten](berechtigungsgruppenanlegen)
+- [Berechtigungen verwalten](berechtigungsgruppen-anlegen)
 
 ## 🆘 Probleme?
 

@@ -1,6 +1,6 @@
 ---
 title: "Eine Organisation anlegen"
-slug: /eineorganisationanlegen
+slug: /eine-organisation-anlegen
 ---
 
 # Eine Organisation anlegen

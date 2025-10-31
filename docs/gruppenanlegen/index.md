@@ -1,6 +1,6 @@
 ---
 title: "Gruppen anlegen"
-slug: /gruppenanlegen
+slug: /gruppen-anlegen
 ---
 
 # Gruppen anlegen

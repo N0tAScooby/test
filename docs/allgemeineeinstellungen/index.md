@@ -1,6 +1,6 @@
 ---
 title: "Allgemeine Einstellungen"
-slug: /allgemeineeinstellungen
+slug: /allgemeine-einstellungen
 ---
 
 # Allgemeine Einstellungen

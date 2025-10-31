@@ -1,6 +1,6 @@
 ---
 title: "Erste Einstellungen im Adminpanel nach der Installation"
-slug: /ersteeinstellungenimadminpanelnachderinstallation
+slug: /erste-einstellungen-im-adminpanel-nach-der-installation
 ---
 
 # Erste Einstellungen im Adminpanel nach der Installation
