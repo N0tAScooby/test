@@ -61,14 +61,14 @@ const config: Config = {
           sidebarId: 'serverSidebar', // default docs sidebar
           docPluginId: 'default',      // default docs plugin
           position: 'left',
-          label: 'Server Docs',
+          label: 'Server Doku',
         },
         {
           type: 'docSidebar',
           sidebarId: 'mobileSidebar',
           docPluginId: 'default',          // mobile plugin ID
           position: 'left',
-          label: 'Mobile Docs',
+          label: 'Mobile App Doku',
         },
         { href: 'https://github.com/N0tAScooby/test', label: 'GitHub', position: 'right' },
       ],
@@ -80,11 +80,11 @@ const config: Config = {
           title: 'Docs',
           items: [
              {
-          label: 'Server Docs',
+          label: 'Server Doku',
           to: '/docs/intro', // OR use docId (cleaner)
         },
         {
-          label: 'Mobile Docs',
+          label: 'Mobile App Doku',
           to: '/docs/docs-mobile/intro',
         },
           ],

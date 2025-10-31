@@ -1,6 +1,6 @@
 ---
 title: "Übersicht Wallboard"
-slug: /bersichtwallboard
+slug: /uebersichtwallboard
 ---
 
 # Übersicht Wallboard

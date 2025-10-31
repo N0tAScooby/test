@@ -1,6 +1,6 @@
 ---
 title: "Übersicht - Dashboard"
-slug: /bersicht-dashboard
+slug: /uebersicht-dashboard
 ---
 
 # Übersicht - Dashboard
